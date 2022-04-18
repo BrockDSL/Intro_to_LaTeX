@@ -7,11 +7,11 @@ LaTeX is a type-setting system that is often used to write technical or scientif
 If you have used document markup languages before, like HTML or Markdown, you may find that LaTeX works in a similar manner. 
 
 # How to Use LaTeX
-While you can install software to write and compile LaTeX locally on your machine, we will be using a free online tool called Overleaf to write our documents in this workshop. Overleaf has a number of benefits. Since it is cloud-based there is nothing to install and you can access your documents from anywhere. Additionally, Overleaf supports collaborating with others on your document (2 people can work on the same document for free) which is a great feature for pair-projects. 
+While you can install software to write and compile LaTeX locally on your machine, we will be using a free online tool called [Overleaf](https://www.overleaf.com/) to write our documents in this workshop. Overleaf has a number of benefits. Since it is cloud-based there is nothing to install and you can access your documents from anywhere. Additionally, Overleaf supports collaborating with others on your document (2 people can work on the same document for free) which is a great feature for pair-projects. 
 
 ## Creating your first LaTeX document in Overleaf
 
-Sign into your Overleaf account (or sign up for one if you haven't already). Press the "New Project" button and click "Blank Project". You will be prompted to give your project a name, select a suitable name (ex. "First Project") and click "Create". 
+Sign into your [Overleaf account](https://www.overleaf.com/login) (or sign up for one if you haven't already). Press the "New Project" button and click "Blank Project". You will be prompted to give your project a name, select a suitable name (ex. "First Project") and click "Create". 
 
 When you create your project in Overleaf, the following code will be generated for you. 
 
