@@ -1,4 +1,4 @@
-![Tool logo](LaTeX_logo.jpg)
+![Tool logo](Intro-Latex.jpg)
 
 # Introduction to LaTeX using Overleaf
 LaTeX is a typesetting system that is often used to write technical or scientific documents. LaTeX is able to nicely render complex mathematical formulas and other special symbols easily. Unlike other document creation software like Word, LaTeX handles the majority of the styling of the document automatically, so you can focus on your content and not have to worry about how it will look on the page.
